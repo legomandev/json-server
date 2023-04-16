@@ -1,0 +1,26 @@
+
+<!DOCTYPE html>			
+<html>			
+<head>			
+<meta charset="utf-8">			
+<title>nearlyst1</title>			
+</head>			
+<body>			
+<div id="myShop">
+    <a href="https://nearlyst1.myspreadshop.com"></a>
+</div>
+
+<script>
+    var spread_shop_config = {
+        shopName: 'nearlyst1',
+        locale: 'us_US',
+        prefix: 'https://nearlyst1.myspreadshop.com',
+        baseId: 'myShop'
+    };
+</script>
+
+<script type="text/javascript"
+        src="https://nearlyst1.myspreadshop.com/shopfiles/shopclient/shopclient.nocache.js">
+</script>	
+</body>			
+</html>			
